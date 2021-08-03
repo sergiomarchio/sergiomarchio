@@ -1,5 +1,5 @@
 test_folder/
-ignored_file.txt
+#ignored_file.txt
 
 ignored_folder/
 #one_dir
