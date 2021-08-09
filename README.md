@@ -2,7 +2,7 @@
 - 👀 I’m interested in _many things_
 - 🌱 I’m currently learning _some of those things_
 - 💞️ I’m looking to collaborate on _cool projects_
-- 📫 How to reach me ...
+- 📫 How to reach me: _look up to the sky in a starry night_
 
 🙃
 
