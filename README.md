@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on _cool projects_
 - 📫 How to reach me: _look up to the sky in a starry night_
 
-🙃
+This repo is used to try random stuff 🙃
 
 <!---
 sergiomarchio/sergiomarchio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
